@@ -6,6 +6,10 @@ index:
     category: 'Category'
     uncategorized: 'uncategorized'
     tag: 'Tag'
+    DailyCoding: 'Daily Coding'
+    sd: 'sd'
+    aa: 'aa'
+    aaa: 'aaa'
 nav:
     current_page:
         other: 'Page %d '
